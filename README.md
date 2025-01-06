@@ -10,9 +10,8 @@
 ### <div align="left">I'm Bilal, a full-stack developer, currently a CS Major</div>  
   
 <!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  -->
-- 🌱 I’m currently learning Spring Framework and Kubernetes  
+- 🌱 Currently dabbling with Spring and .Net Frameworks and Microservices architecture.
 - ❓ Ask me about MERN stack and related technologies  
-<!-- - ⚡ Fun fact: I use tabs over spaces  -->
 
 <br/>  
 
