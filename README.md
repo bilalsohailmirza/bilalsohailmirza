@@ -99,11 +99,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
+
 <!--
-## Github Stats  
-  
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalsohailmirza&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsohailmirza&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsohailmirza&hide=javascript,css,scss,html&theme=tokyonight)
+## Github Stats  
+  
 
 -->
 <!--
