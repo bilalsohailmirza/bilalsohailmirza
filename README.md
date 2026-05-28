@@ -8,10 +8,9 @@
 
 ## Hi there 👋,  I'm Bilal
 ### <div> About Me </div>
-I majored in Computer Science at <a href="https://khi.nu.edu.pk/" >FAST NUCES-Karachi</a> and currently work as an Infrastructure Engineer at  
-<a href="https://datasciencedojo.com/" > Data Science Dojo</a>.
+I majored in Computer Science at <a href="https://khi.nu.edu.pk/" >FAST NUCES-Karachi</a> and currently work as an Infrastructure Engineer at  <a href="https://datasciencedojo.com/" > Data Science Dojo</a>.
 <br/>
-Previously a Full Stack developer with experience in frontend technologies like **React** & **Next.js** and backend technologies like **Node.js**, **Spring Boot**, **Flask**, and **FastAPI**. My current professional interests focus on **Cloud Infrastructure**, **MLOps**, **Platform Engineering** and **Distributed Systems**.
+Previously a Full Stack developer with experience in frontend technologies like **React** & **Next.js** and backend technologies like **Node.js**, **Spring Boot**, **Flask**, and **FastAPI**. My current professional interests focus on **Cloud Infrastructure**, **MLOps**, **AI Engineering**,  **Platform Engineering** and **Distributed Systems**.
 ## Tech Stack
 <!-- <table><tr><td valign="top" width="33%"> -->
 
